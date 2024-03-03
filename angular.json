@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angularhttp"
+  "defaultProject": "angularhttp",
+  "cli": {
+    "analytics": "5c9ddda3-6578-446a-aa74-615a4e3cf715"
+  }
 }
